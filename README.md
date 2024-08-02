@@ -1,6 +1,6 @@
 # Meu Portfólio
 
-Bem-vindo ao meu portfólio! Este repositório contém o código-fonte do meu site pessoal, onde você pode conhecer mais sobre mim e meus projetos. 
+Bem-vindo ao meu portfólio! Este repositório contém o código-fonte do meu site pessoal, onde você pode conhecer mais sobre mim e meus projetos.
 
 ## 📜 Sobre
 
@@ -27,16 +27,15 @@ Aqui estão alguns dos projetos que você encontrará no meu portfólio:
 
 ## 🔗 Links
 
-- **Portfólio Online**: [Seu Link de Portfólio](#) (substitua pelo link real)
-- **GitHub**: [claytondsc](https://github.com/claytondsc)
+- **Portfólio Online**: [Meu Portfólio](https://claytondsc.github.io/meu-portfolio/#)
+- **GitHub**: [ClaytonDSC](https://github.com/claytondsc)
 
 ## 📧 Contato
 
 Você pode me encontrar ou entrar em contato através das seguintes plataformas:
 
-- **Email**: [seu.email@example.com](mailto:seu.email@example.com)
-- **LinkedIn**: [Seu Perfil no LinkedIn](#) (substitua pelo link real)
-- **Twitter**: [@seutwitter](#) (substitua pelo seu usuário real)
+- **Email**: [diasclayton18@gmail.com](mailto:diasclayton18@gmail.com)
+- **LinkedIn**: [Clayton Carvalho](https://www.linkedin.com/in/claytondsc/)
 
 ## 🛠️ Como Executar
 
