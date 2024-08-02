@@ -22,7 +22,7 @@ Este portfólio foi criado para exibir meus projetos, habilidades e informaçõe
 
 Aqui estão alguns dos projetos que você encontrará no meu portfólio:
 
-1. **[AlexDog](https://github.com/claytondsc/alexdog)**: Um jogo desenvolvido em Pygame com mecânicas de pulo, tiro, coleta de moedas e mais.
+1. **[AlexDog](https://github.com/claytondsc/jogo-alexdog)**: Um jogo desenvolvido em Pygame com mecânicas de pulo, tiro, coleta de moedas e mais.
 
 
 ## 🔗 Links
